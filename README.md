@@ -12,7 +12,7 @@ INF3CTUS 🇧🇷 🇵🇹
   pkg install nano
   pkg install git
   pkg install python
-  git clone https://github.com/AmmarrBN/Brutal-Sms
+  git clone https://github.com/lkzFDC/SPAM-WHATSAPP-/blob/main/README.md
   cd Brutal-Sms
   bash install.sh
   python run.py
