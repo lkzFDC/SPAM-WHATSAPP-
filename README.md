@@ -12,10 +12,11 @@ INF3CTUS 🇧🇷 🇵🇹
   pkg install nano
   pkg install git
   pkg install python
-  git clone https://github.com/lkzFDC/SPAM-WHATSAPP-/blob/main/README.md
-  cd Brutal-Sms
+  git clone https://github.com/lkzFDC/SPAM-WHATSAPP-.git
+  cd SPAM-WHATSAPP-
+pip install -r requirements.txt
   bash install.sh
-  python run.py
+  python main.py
   ```
   </detales>
 
@@ -34,10 +35,10 @@ INF3CTUS 🇧🇷 🇵🇹
 #### INF3CTUS 📍
 |INF3CTUS | Check |
 |--------|--------|
-| **24H Sem parar* |[✔️](. https://github.com/lkzFDC/SPAM-WHATSAPP-/blob/main/README.md ) |
-| **Brutal Spam** |[✔️](https://github.com/lkzFDC/SPAM-WHATSAPP-/blob/main/README.md) |
-| **Simple** |[✔️](https://github.com/lkzFDC/SPAM-WHATSAPP-/blob/main/README.md) |
-| **No Encrypt** |[✔️](https://github.com/lkzFDC/SPAM-WHATSAPP-/blob/main/README.md) |
+| **24H Sem parar* |[✔️](. https://github.com/lkzFDC/SPAM-WHATSAPP-.git ) |
+| **Brutal Spam** |[✔️](https://github.com/lkzFDC/SPAM-WHATSAPP-.git) |
+| **Simple** |[✔️]https://github.com/lkzFDC/SPAM-WHATSAPP-.git) |
+| **No Encrypt** |[✔️](https://github.com/lkzFDC/SPAM-WHATSAPP-.git) |
 | 
 ---------
 
