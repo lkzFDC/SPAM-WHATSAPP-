@@ -34,10 +34,10 @@ INF3CTUS 🇧🇷 🇵🇹
 #### INF3CTUS 📍
 |INF3CTUS | Check |
 |--------|--------|
-| **24H Sem parar* |[✔️](. ) |
-| **Brutal Spam** |[✔️](https://github.com/AmmarrBN) |
-| **Simple** |[✔️](https://github.com/AmmarrBN) |
-| **No Encrypt** |[✔️](https://github.com/AmmarrBN) |
+| **24H Sem parar* |[✔️](. https://github.com/lkzFDC/SPAM-WHATSAPP-/blob/main/README.md ) |
+| **Brutal Spam** |[✔️](https://github.com/lkzFDC/SPAM-WHATSAPP-/blob/main/README.md) |
+| **Simple** |[✔️](https://github.com/lkzFDC/SPAM-WHATSAPP-/blob/main/README.md) |
+| **No Encrypt** |[✔️](https://github.com/lkzFDC/SPAM-WHATSAPP-/blob/main/README.md) |
 | 
 ---------
 
